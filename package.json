@@ -1,0 +1,24 @@
+{
+  "name": "@blackdynamo/check-interface",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackdynamo/check-interface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackdynamo/check-interface/issues"
+  },
+  "homepage": "https://github.com/blackdynamo/check-interface#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  }
+}
